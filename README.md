@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/yaakobustephin" target="blank"><img src="https://img.shields.io/twitter/follow/yaakobustephin?logo=twitter&style=for-the-badge" alt="yaakobustephin" /></a> </p>
 
-- 🔭 I’m currently working on **Internet Of Things**
+- 🔭 I’m currently working on **Power Bi project's**
 
-- 🌱 I’m currently learning **Project Development, React js**
+- 🌱 I’m currently learning **Python for data Visualisation, power bi advance method,sql advance**
 
-- 👯 I’m looking to collaborate on **IBM**
+- 👯 I’m looking for **Data Analyst job**
 
-- 💬 I am  **Data analyst**
+- 💬 contact me related **Data analyst** at below
 
 - 📫 How to reach me **stephindensingh@gmail.com**
 
