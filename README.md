@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **IBM**
 
-- 💬 Ask me about **Data analyst**
+- 💬 I am  **Data analyst**
 
 - 📫 How to reach me **stephindensingh@gmail.com**
 
