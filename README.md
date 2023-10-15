@@ -13,7 +13,7 @@
 
 - 👯 I’m looking for **Data Analyst job**
 
-- 💬 contact me related **Data analyst** at below
+- 💬 Contact me related **Data analyst** at below
 
 - 📫 How to reach me **stephindensingh@gmail.com**
 
